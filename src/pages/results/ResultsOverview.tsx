@@ -103,34 +103,34 @@ const ResultsOverview: React.FC = () => {
             </thead>
             <tbody>
               <tr className="border-t">
-                <td className="px-4 py-2">29V1C</td>
+                <td className="px-4 py-2">29V2C</td>
                 <td className="px-4 py-2">Operating systems II</td>
                 <td className="px-4 py-2">I</td>
-                <td className="px-4 py-2">19/16/2025</td>
+                <td className="px-4 py-2">19/06/2025</td>
               </tr>
               <tr className="border-t">
-                <td className="px-4 py-2">29V1C</td>
+                <td className="px-4 py-2">29V2C</td>
                 <td className="px-4 py-2">Computer Networks</td>
                 <td className="px-4 py-2">S</td>
-                <td className="px-4 py-2">19/16/2025</td>
+                <td className="px-4 py-2">19/06/2025</td>
               </tr>
               <tr className="border-t">
-                <td className="px-4 py-2">29V1C</td>
+                <td className="px-4 py-2">29V2C</td>
                 <td className="px-4 py-2">IOT Security</td>
                 <td className="px-4 py-2">O</td>
-                <td className="px-4 py-2">19/16/2025</td>
+                <td className="px-4 py-2">19/06/2025</td>
               </tr>
               <tr className="border-t">
-                <td className="px-4 py-2">29V1C</td>
+                <td className="px-4 py-2">29V2C</td>
                 <td className="px-4 py-2">Web Application Security</td>
                 <td className="px-4 py-2">O</td>
-                <td className="px-4 py-2">19/16/2025</td>
+                <td className="px-4 py-2">19/06/2025</td>
               </tr>
               <tr className="border-t">
-                <td className="px-4 py-2">29V1C</td>
+                <td className="px-4 py-2">29V2C</td>
                 <td className="px-4 py-2">Group Project</td>
                 <td className="px-4 py-2">S</td>
-                <td className="px-4 py-2">19/16/2025</td>
+                <td className="px-4 py-2">19/06/2025</td>
               </tr>
             </tbody>
           </table>
@@ -145,7 +145,7 @@ const ResultsOverview: React.FC = () => {
 
       {/* Grading Scale Section */}
       <div className="bg-white rounded-lg shadow mb-6">
-        <div className="mt-10 px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 rounded-t-lg">
+        <div className="mt-10 px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 ">
           Qualitative Grading Scale
         </div>
         <div className="overflow-x-auto">
@@ -174,7 +174,7 @@ const ResultsOverview: React.FC = () => {
 
 
       <div className="bg-white rounded-lg shadow mt-6">
-  <div className="px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 rounded-t-lg">
+  <div className="px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 ">
     Grade Explanation
   </div>
   <div className="p-4">
