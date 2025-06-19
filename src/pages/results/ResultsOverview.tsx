@@ -26,7 +26,7 @@ const ResultsOverview: React.FC = () => {
       </div>
       
       <div className="text-sm text-gray-600 mb-4">
-        Last updated on 19/16/2025 23:17:34
+        Last updated on 19/06/2025 23:17:34
       </div>
 
       {/* Grading Scale Table */}
@@ -145,7 +145,7 @@ const ResultsOverview: React.FC = () => {
 
       {/* Grading Scale Section */}
       <div className="bg-white rounded-lg shadow mb-6">
-        <div className="mt-10 px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 ">
+        <div className="mt-16 px-4 py-2 text-left text-xl font-bold text-black-800 bg-blue-100 border-b-2 border-blue-300 ">
           Qualitative Grading Scale
         </div>
         <div className="overflow-x-auto">
